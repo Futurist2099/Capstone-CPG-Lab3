@@ -84,6 +84,9 @@ Record of every bug found in the original (broken) prototype, the symptom it cau
 <img width="1445" height="143" alt="department-summary-pyError2" src="https://github.com/user-attachments/assets/8490312c-3b69-4fec-a0b6-2d5676cd7ffc" />
 
 
+<img width="533" height="508" alt="department-summary-equal" src="https://github.com/user-attachments/assets/dbdceceb-c95f-4123-b48f-ba7a0b7fe3f1" />
+
+
 <img width="969" height="810" alt="department-summary-colon-pyfix3-2" src="https://github.com/user-attachments/assets/4dd6a9e7-376d-4e96-b642-d8cfd95fd192" />
 
 
