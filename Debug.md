@@ -111,6 +111,8 @@ Record of every bug found in the original (broken) prototype, the symptom it cau
 <img width="983" height="806" alt="add-employee-missing-colon" src="https://github.com/user-attachments/assets/744f6c38-d3c6-4e2b-9e25-cff0648aee87" />
 
 
+<img width="559" height="88" alt="add-employee-colon" src="https://github.com/user-attachments/assets/882e9239-4c68-4021-9350-882e5dcc5cae" />
+
 
 <img width="795" height="447" alt="add-employee-correction2-1" src="https://github.com/user-attachments/assets/24a1f1de-7bf9-42d9-93bc-5d0720c8018b" />
 
