@@ -1,0 +1,10 @@
+DEPARTMENT SUMMARY
+==================
+Sales: 1
+Finance: 1
+IT: 1
+Marketing: 1
+Security: 1
+legal: 1
+pr: 1
+transport: 1
